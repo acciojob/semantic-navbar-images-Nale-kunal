@@ -1,2 +1,22 @@
+img {
+	padding: 10px;
+}
+nav {
+	background-color: #f0f0f0;
+	padding: 10px;
+}
 
-/* Your CSS Code here. */
+nav ul {
+	list-style: none;
+	display: flex;
+	gap: 20px;
+	justify-content: center;
+	padding: 0;
+	margin: 0;
+}
+
+nav a {
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+}
